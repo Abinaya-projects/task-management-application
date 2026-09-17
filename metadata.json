@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow Manager",
+  "description": "Full-stack task management web application with JWT authentication, MongoDB data models, dynamic dashboard, and task CRUD operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
